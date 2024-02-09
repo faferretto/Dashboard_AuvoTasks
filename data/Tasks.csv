@@ -1,0 +1,5 @@
+﻿Tarefa,Data,Responsavel,Cargo,Projeto/Contrato,Cliente,Tipo de tarefa,CheckIN,CheckOUT,Duracao,DuracaoHoras,Pausa,PausaHoras,Finalizada,Status
+7211606,15/10/2019,Admin,Coordenação,,Empresa1,SCA - Preventiva,2019-10-15T18:15:15,2019-10-15T18:18:15,00:03:00,0.05,00:00:00,0.0,True,5
+7211208,16/10/2019,Joao,Instalador,,Company2,SCA - Preventiva,2019-10-16T10:05:16,2019-10-16T16:50:16,06:45:00,6.75,00:00:00,0.0,True,5
+7222608,17/10/2019,Andre,Analista,,Company2,Visita Técnica,2019-10-17T09:35:17,2019-10-17T17:32:17,07:57:00,7.95,00:00:00,0.0,True,5
+7223278,17/10/2019,Fernando,Tecnico,,Empresa3,Visita Técnica,2019-10-17T11:56:17,2019-10-17T15:09:17,02:24:28,2.40777777777778,00:48:32,0.8088888888888889,True,5
